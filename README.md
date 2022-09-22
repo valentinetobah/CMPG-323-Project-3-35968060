@@ -2,13 +2,19 @@
 
 ## Usage
 
-On successfully startup, you be get the application login page.
+You can checkout code build and run project on your windows machine or access a hosted version of the applcation on azure
 
-You'll need to create a user account if you don't have one.
+Link to App hosted on Azure: <a href="https://devicemanagementwebapp-dev.azurewebsites.net/" target="_blank">Device Management Web App<a>
 
-With a registered user account, can login to the application with your credentials, 
+On successfully startup or on accessing the link above, you land on the application default page.
+  
+On the application default page you'll get options to Login OR Register.
+  
+You can go to the Register page where you'll be asked to choose a email and password. After inputting the required inputs, you can click on the register button which will register you as a user.
 
-On login you'll be presented with the application home page.
+With a registered user account, can login to the application with your credentials by entering your email and password on the login page, 
+
+On login you'll be presented with the authenticated user default home page.
 
 on the home page you'll have access to the Devices, Zones and Categories tabs.
 
